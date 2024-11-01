@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my final year project which enhances the Climate model data accuracy and makes better projections.
+I am currently working as a data scientist.
 
 
 ## 🌐 Socials:
